@@ -1,0 +1,15 @@
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEAdding2Numbers\bin\Debug\net6.0\GarciaEAdding2Numbers.exe
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEAdding2Numbers\bin\Debug\net6.0\GarciaEAdding2Numbers.deps.json
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEAdding2Numbers\bin\Debug\net6.0\GarciaEAdding2Numbers.runtimeconfig.json
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEAdding2Numbers\bin\Debug\net6.0\GarciaEAdding2Numbers.dll
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEAdding2Numbers\bin\Debug\net6.0\GarciaEAdding2Numbers.pdb
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEAdding2Numbers\obj\Debug\net6.0\GarciaEAdding2Numbers.csproj.AssemblyReference.cache
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEAdding2Numbers\obj\Debug\net6.0\GarciaEAdding2Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEAdding2Numbers\obj\Debug\net6.0\GarciaEAdding2Numbers.AssemblyInfoInputs.cache
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEAdding2Numbers\obj\Debug\net6.0\GarciaEAdding2Numbers.AssemblyInfo.cs
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEAdding2Numbers\obj\Debug\net6.0\GarciaEAdding2Numbers.csproj.CoreCompileInputs.cache
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEAdding2Numbers\obj\Debug\net6.0\GarciaEAdding2Numbers.dll
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEAdding2Numbers\obj\Debug\net6.0\refint\GarciaEAdding2Numbers.dll
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEAdding2Numbers\obj\Debug\net6.0\GarciaEAdding2Numbers.pdb
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEAdding2Numbers\obj\Debug\net6.0\GarciaEAdding2Numbers.genruntimeconfig.cache
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEAdding2Numbers\obj\Debug\net6.0\ref\GarciaEAdding2Numbers.dll

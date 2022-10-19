@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "GarciaEAdding2Numbers/1.0.0": {
+        "runtime": {
+          "GarciaEAdding2Numbers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GarciaEAdding2Numbers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
