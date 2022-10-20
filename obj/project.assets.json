@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\extur\\.nuget\\packages\\": {}
+    "/Users/ulisesortega/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\extur\\Documents\\leveOne\\GitHubChallenge\\GarciaEAdding2Numbers\\GarciaEAdding2Numbers.csproj",
+      "projectUniqueName": "/Users/ulisesortega/Desktop/GitRepository/GarciaEAdding2Numbers/GarciaEAdding2Numbers.csproj",
       "projectName": "GarciaEAdding2Numbers",
-      "projectPath": "C:\\Users\\extur\\Documents\\leveOne\\GitHubChallenge\\GarciaEAdding2Numbers\\GarciaEAdding2Numbers.csproj",
-      "packagesPath": "C:\\Users\\extur\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\extur\\Documents\\leveOne\\GitHubChallenge\\GarciaEAdding2Numbers\\obj\\",
+      "projectPath": "/Users/ulisesortega/Desktop/GitRepository/GarciaEAdding2Numbers/GarciaEAdding2Numbers.csproj",
+      "packagesPath": "/Users/ulisesortega/.nuget/packages/",
+      "outputPath": "/Users/ulisesortega/Desktop/GitRepository/GarciaEAdding2Numbers/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\extur\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/ulisesortega/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
       }
     }
   }
