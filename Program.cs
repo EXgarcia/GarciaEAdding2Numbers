@@ -22,10 +22,8 @@ while(end != "STOP"){
 
     if(realNum1 == false)
     {
-        Console.WriteLine("Okay foo stop playing.");
-        Console.WriteLine("Ay Foo let's add some numbers.\nGive me your first number foo");
-        numOne = Console.ReadLine();
-    realNum1 = Int32.TryParse(numOne, out num1);
+        Console.WriteLine("Okay foo stop playing. Game over aye.");
+        break;
     }
 
     Console.WriteLine("Okay, now your next number Foo. *whistle noises*");
@@ -38,7 +36,8 @@ while(end != "STOP"){
 
         Console.WriteLine("The sum of your numbers is " + (num1 + num2) );
     }else{
-        Console.WriteLine("Stop playing around eyy");
+        Console.WriteLine("Stop playing around eyy. Game over Foo.");
+        break;
     }
     Console.WriteLine("To end this foo, just enter STOP eyy.");
     end = Console.ReadLine().ToUpper();
