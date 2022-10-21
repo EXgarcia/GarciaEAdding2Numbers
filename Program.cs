@@ -21,7 +21,7 @@ while(end != "STOP"){
     Console.WriteLine("Give me your first number Foo. ");
     numOne = Console.ReadLine();
     realNum1 = Int32.TryParse(numOne, out num1);
-
+    
     if(realNum1 == false)
     {
         Console.WriteLine("Okay foo stop playing.");
