@@ -15,16 +15,18 @@ int t = 0;
 bool realNum1 = true;
 bool realNum2 = true;
 
+Console.WriteLine("Ay Foo let's add some numbers");
+
 while(end != "STOP"){
-    Console.WriteLine("Ay Foo let's add some numbers.\nGive me your first number Foo. ");
+    Console.WriteLine("Give me your first number Foo. ");
     numOne = Console.ReadLine();
     realNum1 = Int32.TryParse(numOne, out num1);
 
     if(realNum1 == false)
     {
-        Console.WriteLine("Okay foo stop playing. Game over aye.");
-        break;
-    }
+        Console.WriteLine("Okay foo stop playing.");
+        
+    }else{
 
     Console.WriteLine("Okay, now your next number Foo. *whistle noises*");
     numTwo = Console.ReadLine();
@@ -37,9 +39,10 @@ while(end != "STOP"){
         Console.WriteLine("The sum of your numbers is " + (num1 + num2) );
     }else{
         Console.WriteLine("Stop playing around eyy. Game over Foo.");
-        break;
+        
     }
-    Console.WriteLine("To end this foo, just enter STOP eyy.");
+    Console.WriteLine("To end this foo, just enter STOP eyy or press enter to start over.");
     end = Console.ReadLine().ToUpper();
-}
 
+}
+}
